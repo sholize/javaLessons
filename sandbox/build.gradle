@@ -1,4 +1,4 @@
 apply plugin: 'java'
 apply plugin: 'application'
-mainClassName = 'Distance'
+mainClassName = 'ru.stqa.pft.DistanceCount'
 
